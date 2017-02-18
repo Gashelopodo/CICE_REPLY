@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tresD">&#xE84D;</string>
+    <string name="androide">&#xE859;</string>
+    <string name="alarma">&#xE855;</string>
+    <string name="accesible">&#xE914;</string>
+    <string name="salida">&#xE879;</string>
+    <string name="check">&#xE86C;</string>
+    <string name="tarjeta">&#xE870;</string>
+    <string name="setting">&#xE8A4;</string>
+</resources>
